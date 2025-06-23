@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "portfolio-ddeba"
+  },
+  "targets": {
+    "portfolio-ddeba": {
+      "hosting": {
+        "salesForcast": [
+          "sales-forcast"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
